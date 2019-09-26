@@ -7,6 +7,7 @@ class Vehicle2():
     def accelerate(self):
         return 'vrooom'
 
-    def male_sound(self):
+    def make_sound(self):
         return '*noises*'
-    
+
+#print(Vehicle2(4,5,'blue'))
